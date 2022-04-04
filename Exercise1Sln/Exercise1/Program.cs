@@ -22,7 +22,7 @@ namespace Exercise1
 
         static void Main(string[] args)
         {
-            string textInput = "My test string";
+            string textInput = "Github is cool";
             string reversedString="";
 
             for (int i = textInput.Length -1; i >= 0 ; i--)
